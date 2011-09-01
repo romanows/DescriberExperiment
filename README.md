@@ -1,6 +1,3 @@
-Describer Experiment by Brian Romanowski (romanows@gmail.com)
-(coding started 2011-06-23)
-
 # Overview
 This code presents a series of images to a human subject and records audio 
 of the description uttered by the subject.  Emphasis is placed on maintaining a
@@ -8,6 +5,10 @@ detailed record of experiment events.
 
 Images look like this:
 ![Image presented to the experimental subject; grid layout of different types and colors of hand-drawn objects](http://github.com/romanows/DescriberExperiment/raw/master/exampleDescriberImage.png)
+
+
+Brian Romanowski 
+romanows@gmail.com
 
 
 # Requirements
