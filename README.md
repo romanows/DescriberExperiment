@@ -1,13 +1,16 @@
 Describer Experiment by Brian Romanowski (romanows@gmail.com)
 (coding started 2011-06-23)
 
-== Overview ==
+# Overview
 This code presents a series of images to a human subject and records audio 
 of the description uttered by the subject.  Emphasis is placed on maintaining a
 detailed record of experiment events.  
 
+Images look like this:
+![Image presented to the experimental subject; grid layout of different types and colors of hand-drawn objects](exampleDescriberImage.png)
 
-== Requirements ==
+
+# Requirements
 DescriberTask is known to run with these Ubuntu 11.04 packages installed:
 * Python 2.7.1
 * PyGame 1.9.1
@@ -19,7 +22,7 @@ such as Windows or Mac, but there are almost certainly a trivial bugs that
 would need to be fixed.
 
 
-== Usage ==
+# Usage
 DescriberTask.py is the main script that runs the experiment.  It will attempt 
 to read a configuration file at resources/config/ but if this isn't present, 
 it will create and write a default version.  As the experiment progresses, 
@@ -39,13 +42,13 @@ continuous recording made by DescriberTask.py into individual timestamped
 WAVE utterance files. 
 
 
-== Bugs ==
+# Bugs
 Please file bug reports and bug fixes in the GitHub issue tracker.  Feel free 
 to shoot the author an email if you find this software useful, it would make 
 his day.
 
 
-== Known Bugs ==
+# Known Bugs
 "Escape" quits the experiment, but this is only registered after a new scene 
 fades in and the yellow box appears. 
 
@@ -63,9 +66,9 @@ For some reason, I wrote my own logger rather than use Python's logging
 package.
 
 
-== Thanks ==
+# Thanks
 The audio files were taken from the Ubuntu project. 
 
 
-== LICENSE ==
+# LICENSE
 This software is released under the Simplified BSD License, see LICENSE.TXT. 
