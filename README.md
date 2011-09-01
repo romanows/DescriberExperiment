@@ -12,6 +12,7 @@ Images look like this:
 
 # Requirements
 DescriberTask is known to run with these Ubuntu 11.04 packages installed:
+
 * Python 2.7.1
 * PyGame 1.9.1
 * PyAudio 0.2.4-2 (using PortAudio 19+svn20110317-1)
