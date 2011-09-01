@@ -7,7 +7,7 @@ of the description uttered by the subject.  Emphasis is placed on maintaining a
 detailed record of experiment events.  
 
 Images look like this:
-![Image presented to the experimental subject; grid layout of different types and colors of hand-drawn objects](http://github.com/romanows/DescriberExperiment/blob/master/exampleDescriberImage.png)
+![Image presented to the experimental subject; grid layout of different types and colors of hand-drawn objects](http://github.com/romanows/DescriberExperiment/raw/master/exampleDescriberImage.png)
 
 
 # Requirements
